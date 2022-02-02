@@ -12,7 +12,7 @@ discografias_json = json.loads(texto_discografias_json)
 
 grabar = False
 for e in discografias_json:
-     if e["title"] == "Puagh":
+     if e["title"] == "Vice Squad":
        grabar = True
        continue
 

@@ -12150,6 +12150,65 @@
     "contraseña": ""
   },
   {
+    "title": "NICKY JAM",
+    "albums": [
+      {
+        "album": "1994 - Distinto A Los Demás",
+        "links": ["http://q.gs/FRenD"]
+      },
+      {
+        "album": "2001 - Haciendo Escante",
+        "links": ["http://q.gs/FRenE"]
+      },
+      {
+        "album": "2003 - Salón De La Fama",
+        "links": ["http://q.gs/FRenF"]
+      },
+      {
+        "album": "2005 - Vida Escante (Special Edition)",
+        "links": ["http://q.gs/FRenG"]
+      },
+      {
+        "album": "2007 - The Black Carpet",
+        "links": ["http://q.gs/FRenH"]
+      },
+      {
+        "album": "2014 - Greatest Hits, Vol. 1",
+        "links": ["http://q.gs/FRenI"]
+      },
+      {
+        "album": "2014 - Nicky Jam Hits",
+        "links": ["http://q.gs/FRenJ"]
+      },
+      {
+        "album": "2015 - El Perdón (The Remixes)",
+        "links": ["http://q.gs/FRenK"]
+      },
+      {
+        "album": "2016 - Exitos",
+        "links": ["http://q.gs/FRenL"]
+      },
+      {
+        "album": "2016 - Vida Escante",
+        "links": ["http://q.gs/FRenM"]
+      },
+      {
+        "album": "2017 - Fénix",
+        "links": ["http://q.gs/FRenN"]
+      },
+      {
+        "album": "2019 - Intimo",
+        "links": ["http://q.gs/FRenO"]
+      },
+      {
+        "album": "2021 - Infinity",
+        "links": ["http://q.gs/FRenP"]
+      }
+    ],
+    "imagenes": ["https://upload.wikimedia.org/wikipedia/commons/6/6f/Nicky_Jam_(10998778535).jpg"],
+    "contraseña": ""
+  },
+  {
     "title": "NIRVANA",
     "albums": [
       { "album": "NIRVANA - 1989 - Bleach", "links": ["http://q.gs/FRZyq"] },
